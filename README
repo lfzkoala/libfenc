@@ -42,9 +42,7 @@ Currently, the library works well on 32-bit systems but we have a few notable bu
 
 -------------------------------------------------------------------------------------------
 
-If you have feature suggestions, bug reports, questions, or want to let us
-know how your using the library, you can reach us at libfenc-devel at googlegroups dot com.
-
-Please see the INSTALL text file for directions on how to install the library for varied
-*unix operating systems.
+This is a hybrid library implementing functional encryption and its many other special cases 
+such as attribute-based encryption and identity-based encryption. The implementation of broadcast
+encryption will be coming soon. 
 
